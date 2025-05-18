@@ -1,0 +1,15 @@
+ADD 'Sour Stripes' 3 10 5
+ADD 'Gift Card' 15 7 1
+COST 'Drill Forks'
+COST 'Sour Stripes'
+FIND 'Gift Card'
+FIND 'Hand Truck'
+SELL 'Hammer' 1
+SELL 'Gift Card' 3
+QUANTITY 'Paint Can'
+FIRE 'Franklin Pu'
+HIRE 'Lewis hamilton' 35 G T.TR.SAT
+PROMOTE 'Lewis hamilton' M
+SCHEDULE
+SAW
+EXIT
